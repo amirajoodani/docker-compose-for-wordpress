@@ -1,4 +1,4 @@
-# docker-compose-for-wp
+# docker-compose-for-wordpress
 
 For test . in production use .env and isolate network <br>
 
